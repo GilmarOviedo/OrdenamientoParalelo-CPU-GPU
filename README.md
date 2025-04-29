@@ -1,6 +1,6 @@
-# OrdenamientoParalelo-CPU-GPU
+# Estructura de Directorios del Proyecto
 
-
+```plaintext
 Ordenamiento_Paralelo_Proyecto/
 ├── README.md                  # Explicación general del proyecto
 ├── data/
@@ -32,3 +32,4 @@ Ordenamiento_Paralelo_Proyecto/
 │   └── compilar_cuda.sh         # Script para compilar código CUDA
 ├── resultados.ipynb             # Notebook Jupyter para análisis y gráficos
 └── Makefile                     # Opcional: Makefile para automatizar compilaciones
+
