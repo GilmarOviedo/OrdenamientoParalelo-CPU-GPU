@@ -113,7 +113,7 @@ La siguiente gráfica resume los tiempos y la relación _speed-up_:
 
 - **Ingeniería:** scripts reproducibles, árbol de sprints independiente, loader tolerante a formatos reales.
 
-> **Estado del hito:** ✅ Finalizado — listo para pasar a **Sprint 2 (CUDA/GPU)**
+> **Estado del hito:** ✅ Finalizado — continua  **Sprint 2 (CUDA/GPU)**
 
 
 
